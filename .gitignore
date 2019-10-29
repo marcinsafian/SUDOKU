@@ -1,5 +1,3 @@
-CHECKERS/.gradle
-/CHECKERS/build/
 /.idea/
 /codestyles/
 !gradle/wrapper/gradle-wrapper.jar
