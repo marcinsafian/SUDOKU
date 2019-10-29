@@ -23,4 +23,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-out/
+out/.gradle\
+build\
+.idea\
